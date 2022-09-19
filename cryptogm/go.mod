@@ -1,4 +1,4 @@
-module github.com/xlcetc/cryptogm
+module github.com/pfcqlj/SM2-9/cryptogm
 
 go 1.14
 
