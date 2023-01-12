@@ -12,7 +12,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/xlcetc/cryptogm/sm/sm3"
+	"github.com/pfcqlj/SM2-9/cryptogm/sm/sm3"
 )
 
 var EncryptionErr = errors.New("sm2: encryption error")
