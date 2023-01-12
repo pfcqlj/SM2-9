@@ -11,7 +11,6 @@ import (
 	"io"
 	"math"
 	"math/big"
-
 	"github.com/pfcqlj/SM2-9/cryptogm/sm/sm3"
 )
 
