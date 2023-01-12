@@ -13,9 +13,9 @@ import (
 	"math/big"
 
 	"github.com/pkg/errors"
-	"github.com/xlcetc/cryptogm/elliptic/sm9curve"
-	"github.com/xlcetc/cryptogm/sm/sm2"
-	"github.com/xlcetc/cryptogm/sm/sm3"
+	"github.com/pfcqlj/SM2-9/cryptogm/elliptic/sm9curve"
+	"github.com/pfcqlj/SM2-9/cryptogm/sm/sm2"
+	"github.com/pfcqlj/SM2-9/cryptogm/sm/sm3"
 )
 
 type hashMode int
